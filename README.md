@@ -20,7 +20,7 @@
 #### Role: Guest (Prospective Student)
 - Click on Guest button
 
-For some mobile versions, Camera does not get detected for the first time,when we open QR the code scanner. The solution is to just close the app and start it again. It happens only once in the lifetime of the application.
+For some mobile versions, camera does not get detected for the first time,when we open QR the code scanner. The solution is to just close the app and start it again. It happens only once in the lifetime of the application.
 
 ## Course Information
 - Instructor: Michael Findler
